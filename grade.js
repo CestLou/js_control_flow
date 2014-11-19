@@ -1,23 +1,23 @@
-var testScore = 60;
+var testScore = 90;
 var result = "";
 
 if (testScore >= 90) {
-	result = "A"
+	result = "A";
 }
 else if (testScore >= 80) {
-	result = "B"
+	result = "B";
 }
 else if (testScore >= 70) {
-	result = "C"
+	result = "C";
 }
 else if (testScore >= 60) {
-	result = "D"
+	result = "D";
 }
 else {
-	result = "F"
+	result = "F";
 }
 
-console.log(result)
+console.log(result);
 
 
 
